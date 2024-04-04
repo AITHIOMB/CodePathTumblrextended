@@ -19,7 +19,9 @@ The following **required** functionality is completed:
 
 <div>
     <a href="https://www.loom.com/share/15f92c665b26445db7c3fd9fe7ec7649">
-      <p>Tumblr Detail View - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/15f92c665b26445db7c3fd9fe7ec7649">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/15f92c665b26445db7c3fd9fe7ec7649-with-play.gif">
     </a>
   </div>
 
